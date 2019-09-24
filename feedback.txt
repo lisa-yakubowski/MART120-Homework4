@@ -1,0 +1,3 @@
+App feedback included that it was a great first try at a functioning app, as well as that it could be expanded upon for more questions, making it into a full fledged quiz app. 
+
+My game received good feedback for functionality, but in hindsight I shouldn't have had the wizard reset to the middle, as that made things a little confusing. The suggestion of having an end score was a common theme as well.
